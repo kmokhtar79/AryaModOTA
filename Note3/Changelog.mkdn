@@ -2,7 +2,7 @@
 # [AryaMod Note3](http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-tw-lollipop-t2990920)
 
 # 10-05-2016 
-# V6.X
+# V9.X
 ## General Changes
   - Based on `N9005XXUGBPD3` Official Firmware for GALAXY Note3
   - ROM Control V2.1
