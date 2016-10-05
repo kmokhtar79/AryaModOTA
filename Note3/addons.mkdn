@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <hash>
+<addons>
+<addon>
+<id>1</id> 
+<!-- Use integers only, make them unique --> <name>AryaMod_ProjectGrace</name> 
+<!-- The name, simples --> 
+<description>New NoteUX Repacked for AryaMOD V6.5</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-09-05</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>145812512</size> 
+<!-- filesize in bytes --> 
+<download-link> https://romhut.com/files/2227?region=usa </download-link> 
+</addon>
+<addon>
+<id>2</id> 
+<!-- Use integers only, make them unique --> <name>xposed-v86.1-sdk23-arm-custom-build-by-wanam-20160904</name> 
+<!-- The name, simples --> 
+<description>Compatible Xposed Framework</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-09-05</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>4887156</size> 
+<!-- filesize in bytes --> 
+<download-link> https://romhut.com/files/2226?region=usa </download-link> 
+</addon> 
+</addons> 
+</hash>

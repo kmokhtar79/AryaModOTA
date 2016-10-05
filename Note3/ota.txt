@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <ROM>
+   <RomName>AryaMod</RomName>
+  <VersionName>AryaModV_V6.5_S7Edge</VersionName>
+  <VersionNumber type="integer">20160904</VersionNumber>
+     <!-- <DirectUrl><![CDATA[XX]]></DirectUrl> -->
+     <!-- Use the above format if your URL has special characters in them, like an (&) ampersand -->
+     <!-- Enter <DirectUrl nil="true" /> or <HttpUrl nil="true" /> to indicate you won't be using a type of URL -->
+     <!-- Direct Link overrides HTTP link -->
+   <DirectUrl nil="true" />
+  <DirectUrl><![CDATA[https://romhut.com/files/2225?region=usa]]></DirectUrl>
+   <Android>6.0.1</Android>
+  <CheckMD5>022121911a15344b5866f57f483d4c93</CheckMD5>
+  <FileSize type="integer">1800958302</FileSize>
+   <Developer>Kamy</Developer>
+   <WebsiteURL>http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976</WebsiteURL>
+   <DonateURL nil="true" />
+   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
+   <Changelog>
+###v6.5 Changes:
+ - LSSKernel Updated to 3.5UX
+ - SuperSu 2.78
+ - Fixed NFC
+ - Fixed Music control applying changes on fly
+ - Added Notification Panel Date Gesture: SinglePress opens clock settings and LongPress opens Alarm
+ - Added Notification Panel Data Usage Preferences: Visibility, color and more
+ - Added Toast Animations UI Framework
+ - Updated Music and Video apps
+ 
+   </Changelog>
+   <AddonCount>5</AddonCount> 
+  <AddonsURL>https://raw.githubusercontent.com/kmokhtar79/OTAUpdates/stable/addons.mkdn</AddonsURL>
+</ROM>
