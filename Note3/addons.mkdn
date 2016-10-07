@@ -11,5 +11,15 @@
 <!-- filesize in bytes --> 
 <download-link> https://romhut.com/files/2237?region=usa </download-link> 
 </addon>
+<addon>
+<id>2</id> 
+<!-- Use integers only, make them unique --> <name>AryaMod_v9_NotificationPanel_Theme_Fix</name> 
+<!-- The name, simples --> 
+<description>Would fix not applying theme on notifications panel</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-10-07</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>173930</size> 
+<!-- filesize in bytes --> 
+<download-link> https://romhut.com/files/2238?region=usa </download-link> 
+</addon>
 </addons> 
 </hash>
