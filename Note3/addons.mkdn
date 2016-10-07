@@ -3,13 +3,13 @@
 <addons>
 <addon>
 <id>1</id> 
-<!-- Use integers only, make them unique --> <name>AryaMod_ProjectGrace</name> 
+<!-- Use integers only, make them unique --> <name>AryaMod_Lancher_H55_D56</name> 
 <!-- The name, simples --> 
-<description>New NoteUX Repacked for AryaMOD V6.5</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-09-05</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>145812512</size> 
+<description>Modded Launcher, Home grid 5x5, App drawer 5x6</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-10-07</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>3190087</size> 
 <!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2227?region=usa </download-link> 
+<download-link> https://romhut.com/files/2237?region=usa </download-link> 
 </addon>
 </addons> 
 </hash>
